@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi! 👋
 
+- 🔭 I’m currently working on: ...
+- 🌱 I’m currently learning: the field of Deep Learning! (and generally how to live better)
+- 📫 Feel free to reach out: [justinqcai@gmail.com](mailto:justinqcai@gmail.com)
 <!--
 **justinqcai/justinqcai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
